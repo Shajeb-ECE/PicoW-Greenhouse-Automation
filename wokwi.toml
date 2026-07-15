@@ -1,0 +1,8 @@
+[wokwi]
+version = 1
+firmware = 'pico.uf2'
+elf = 'pico.elf'
+
+[[wokwi.processor]]
+id = 'uno'
+firmware = 'uno.hex'
